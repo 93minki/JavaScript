@@ -6,14 +6,13 @@ body {
   cursor: pointer;
 }
 
-h1 {
+body {
   /* columns: #34495e;; */
-  color: #eff12e;
-  transition: color 0.5s ease-in-out;
+  color: #3513ce;
 }
 
 .clicked {
-  color: #123fa1;
+  color: #6d7992;
 }
 
 .form,
